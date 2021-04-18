@@ -2,8 +2,6 @@
 
 Este script es un megáfono, el mismo es una base de polspeak (https://github.com/bzrr/polspeak). 
 
-Esta es la pagina web donde se gestiona todo tipo de utilidad entre el staff y el usuario, para así ofrecerle al staff una mayor facilidad a la hora de moderación/administración.
-
 Información:
 
 **Importante: (Se explica lo necesario a saber)**
